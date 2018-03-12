@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoccerApp</string>
+    <string name="title_standings">Standings</string>
+    <string name="title_fixtures">Fixtures</string>
+    <string name="title_topscores">Topscorers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
